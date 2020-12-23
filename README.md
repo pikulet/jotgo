@@ -1,0 +1,2 @@
+# jotgo
+jotto in golang
