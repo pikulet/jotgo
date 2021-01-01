@@ -71,7 +71,7 @@ func verifyValid(d *enchant.Enchant, word string, length int) TargetWord {
 	return tWord
 }
 
-func CreateNewGame(wordOne string, wordTwo string, wordLength int) *Game {
+func CreateGame(wordOne string, wordTwo string, wordLength int) *Game {
 
 	if wordLength < minWordLength {
 		panic(fmt.Sprintf("EngineError: Word length should be at least %d", minWordLength)) 
