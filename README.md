@@ -1,4 +1,6 @@
 # jotgo
 jotto in golang
 
-I will want to make a HTTP server for this and make a web/ console front end
+jotto is the game 'mastermind' applied to words (thank you enchant)
+
+do the usual `go get github.com/pikulet/jotgo` and `import "github.com/pikulet/jotgo"`
