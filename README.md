@@ -7,7 +7,7 @@ If you want to develop jotgo applications using my engine, do
 
 `sudo apt install libenchant-dev`
 
-`go get -u github.com/pikulet/jotgo/game`
+`go get -u github.com/pikulet/jotgo`
 
 In your file, do
 
