@@ -1,7 +1,8 @@
-# jotgo
-jotto in golang! jotto is the game 'mastermind' applied to words (thank you enchant)
+# :crayon: jotgo :crayon:
 
-### Setup for jotgo game
+Jotto in golang! Jotto is the game 'mastermind' applied to words. For word-related dev, you would of course have to thank enchant.
+
+## :firecracker: Usage
 
 If you want to develop jotgo applications using my engine, do
 
